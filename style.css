@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.temp_title{
+    font-size: 5rem;
+}
