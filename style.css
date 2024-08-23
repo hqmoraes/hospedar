@@ -7,13 +7,21 @@ body{
 }
 @media screen and (max-width:799px) {
     .temp_title{
-        font-size: 2rem;
+        font-size: 3rem;
     }
+    #clock{
+        font-size: 2rem;
+        margin-top: 1vh;
+      }
 }
 @media screen and (min-width:800px) {
     .temp_title{
         font-size: 5rem;
-    }    
+    }  
+    #clock{
+        font-size: 2rem;
+        margin-top: 5vh;
+      }  
 }
 
 #clock{
