@@ -3,6 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
+    flex-direction: column;
 }
 @media screen and (max-width:799px) {
     .temp_title{
@@ -13,4 +14,9 @@ body{
     .temp_title{
         font-size: 5rem;
     }    
+}
+
+#clock{
+  font-size: 2rem;
+  margin-top: 5vh;
 }
