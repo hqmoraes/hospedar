@@ -1,3 +1,8 @@
+body{
+    overflow: hidden;
+}
+
+
 #bloco_temp{
     display: flex;
     align-items: center;
